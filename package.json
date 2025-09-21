@@ -13,7 +13,7 @@
     "learning"
   ],
   "author": "Ranim Khemir",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "lodash": "^4.17.21"
   },
