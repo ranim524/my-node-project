@@ -1,15 +1,21 @@
 {
   "name": "my-node-project",
   "version": "1.0.0",
-  "description": "A simple Node.js project for learning purposes",
+  "description": "My first Node.js project for FreeCodeCamp",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [],
+  "keywords": [
+    "freecodecamp",
+    "node",
+    "project",
+    "learning"
+  ],
   "author": "Ranim Khemir",
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.21"
-  }
+  },
+  "devDependencies": {}
 }
