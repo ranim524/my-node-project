@@ -6,7 +6,9 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "Ranim Khemir",
+  "author": {
+    "name": "Ranim Khemir"
+  },
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.21"
