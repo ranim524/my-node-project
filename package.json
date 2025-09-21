@@ -6,12 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [
-    "freecodecamp",
-    "node",
-    "project",
-    "learning"
-  ],
+  "keywords": [ "freecodecamp", "microservice", "guide" ],
   "author": "Ranim Khemir",
   "license": "ISC",
   "dependencies": {
